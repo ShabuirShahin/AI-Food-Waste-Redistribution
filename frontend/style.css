@@ -1,0 +1,60 @@
+body.bg {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+                url("https://images.unsplash.com/photo-1504674900247-0877df9cc836");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(12px);
+    padding: 30px;
+    width: 320px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,.6);
+    color: white;
+    text-align: center;
+}
+
+.card.wide {
+    width: 380px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: none;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    border-radius: 6px;
+    border: none;
+    background: #00c896;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #00b285;
+}
+
+.link {
+    margin-top: 12px;
+    color: #ffd369;
+    cursor: pointer;
+}
+
+#status {
+    margin-top: 12px;
+    font-weight: bold;
+}
