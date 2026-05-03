@@ -3,14 +3,14 @@
 ## Overview
 This project is a real-time system designed to reduce food waste by efficiently connecting food donors with nearby NGOs using intelligent prioritization.
 
----
+----
 
 ## Problem Statement
 - Significant food wastage in urban areas
 - Lack of coordination between donors and NGOs
 - Time-sensitive nature of food redistribution
 
----
+----
 
 ## Solution
 - AI-based NGO selection using priority scoring
@@ -59,5 +59,5 @@ This project is a real-time system designed to reduce food waste by efficiently 
 ---
 
 ## Author
- Shabuir Shahin.A
- Aysha Kethar Fathima.A.S
+ **Shabuir Shahin.A**
+ **Aysha Kethar Fathima.A.S**
