@@ -59,5 +59,5 @@ This project is a real-time system designed to reduce food waste by efficiently 
 ---
 
 ## Author
-***Shabuir Shahin.A***
-***Aysha Kethar Fathima.A.S***
+**Shabuir Shahin.A**
+**Aysha Kethar Fathima.A.S**
